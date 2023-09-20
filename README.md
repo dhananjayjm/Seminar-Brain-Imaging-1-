@@ -1,4 +1,5 @@
-## Seminar-Brain-Imaging-1-
+## Seminar-Brain-Imaging-1
+## Dhananjay Mandalkar
 ## This presentation is for the 'Seminar on Brain Imaging 1' in the field of Imaging in Medicine.
 
 A modern cytoarchitectonic atlas seeks to accomplish this in several dimensions while taking individual variations into account. Accurately mapping the brain regions is one of the fundamental goals of neuroscience. By fine-tuning existing brain boundaries based on cellular structure, Amunts, and colleagues created an atlas utilizing a series of histological brain sections and computational techniques. They can modify their methodology to produce maps of the brains of various species or of other organs. They established a methodology for future study, making it both replicable and flexible.
