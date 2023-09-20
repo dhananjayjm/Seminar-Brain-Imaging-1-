@@ -8,3 +8,5 @@ Cytoarchitecture is a study to divide the brain into different regions based on 
 ## Julich-Brain: A 3D probabilistic atlas of the human brain's cytoarchitecture,
 
 >  <cite>Amunts K, Mohlberg H, Bludau S, Zilles K. Julich-Brain: A 3D probabilistic atlas of the human brain's cytoarchitecture. Science. 2020 Aug 21;369(6506):988-992. doi: 10.1126/science.abb4588. Epub 2020 Jul 30. PMID: 32732281.</cite>
+
+[](https://github.com/dhananjayjm/Seminar-Brain-Imaging-1-/blob/main/Brain_Imaging_1_Juelich-Brain%20_1.jpg)
